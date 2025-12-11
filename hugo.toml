@@ -214,8 +214,8 @@ link = "https://medium.com/@loremipsum/consectetur-practices"
     url = "/experience/"
     weight = 2
   [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
+    name = "Blogs"
+    url = "/blogs/"
     weight = 3
   [[menu.main]]
     name = "Contact me"
