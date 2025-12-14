@@ -1,0 +1,21 @@
+  row1 = [
+    { icon = "devicon-python-plain", name = "Python" },
+    { icon = "devicon-r-plain", name = "R" },
+    { icon = "devicon-jupyter-plain", name = "Jupyter" },
+    { icon = "devicon-postgresql-plain", name = "PostgreSQL" },
+    { icon = "devicon-pandas-plain", name = "Pandas" },
+    { icon = "devicon-numpy-plain", name = "NumPy" },
+    { icon = "devicon-mysql-original", name = "MySQL" },
+    { icon = "devicon-matplotlib-plain", name = "MatplotLib" },
+    { icon = "devicon-rstudio-plain", name = "RStudio" }
+  ]
+  row2 = [
+    { icon = "devicon-docker-plain", name = "Docker" },
+    { icon = "devicon-kubernetes-plain", name = "Kubernetes" },
+    { icon = "devicon-github-original", name = "GitHub" },
+    { icon = "devicon-git-plain", name = "Git" },
+    { icon = "devicon-bash-plain", name = "Bash" },
+    { icon = "devicon-powershell-plain", name = "Powershell" },
+    { icon = "devicon-hugo-plain", name = "Hugo" },
+    { icon = "devicon-tailwindcss-plain", name = "TailwindCSS" }
+  ]

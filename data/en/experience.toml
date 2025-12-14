@@ -6,9 +6,13 @@
   country = "London, United Kingdom" # New field for region/country
   # description = "Longer description of the role..." # Optional detailed description
   responsibilities = [
-    "Led data-focused redevelopment of Boeing’s Cascade climate dashboard and wrote analysis-driven content for aviation leaders.",
-    "Created monthly CEO insights for Boston Consulting Group on emerging executive priorities like AI agents, talent migration and M&A.",
-    "Guest lectured at the University of Arts London MA Design for Data Visualisation (3 years running)."
+    "Led data on visualizations, dashboards and reports for major international organizations like BCG, Boeing, Netflix, ECMWF.",
+
+    "Researched, cleaned, analysed and visualised data using tools like R, Python and Excel/Google Sheets.",
+    
+    "Translated complex topics into actionable insights for both technical and non-technical stakeholders.",
+
+    "Guest lectured at the University of Arts London MA Design for Data Visualisation.",
   ]
   technologies = ["R", "Python", "Google Sheets", "Excel", "QGIS"]
 
@@ -20,9 +24,9 @@
   country = "London, United Kingdom" # New field for region/country
   # description = "Longer description of the role..." # Optional detailed description
   responsibilities = [
-    "Produced social media content for the head of WHO's Division of Data, Analytics and Delivery for Impact.",
-    "Collaborated with cross-functional teams in multiple timezones for WHO, Google, Netflix, and others.",
-    "Managed the studio's data and editorial intern (3 mths)."
+    "Cooperated with developers on GitHub to test webpages and integrate CI/CD principles.",
+    "Collaborated with cross-functional teams across multiple timezones.",
+    "Managed interns within the data and editorial team."
   ]
   technologies = ["R", "Python", "Google Sheets", "Excel"]
 
