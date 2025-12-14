@@ -111,12 +111,6 @@
                 <a href="{{ .URL | absURL }}" class="text-xl text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}text-accent-light dark:text-accent-dark font-semibold{{ end }}" data-menu-link>{{ .Name }}</a>
                 {{ end }}
             </nav>
-            <div class="mt-auto p-6">
-                <div class="flex items-center justify-center">
-                    <span class="text-lg text-text-secondary-light dark:text-text-secondary-dark mr-2">{{ T "localTimeLabel" }}</span>
-                    <div id="mobile-local-time" class="text-lg text-text-secondary-light dark:text-text-secondary-dark"></div>
-                </div>
-            </div>
         </div>
     </div>
 </header>
