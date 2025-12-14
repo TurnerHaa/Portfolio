@@ -11,11 +11,9 @@
   ]
   row2 = [
     { icon = "devicon-docker-plain", name = "Docker" },
-    { icon = "devicon-kubernetes-plain", name = "Kubernetes" },
     { icon = "devicon-github-original", name = "GitHub" },
     { icon = "devicon-git-plain", name = "Git" },
     { icon = "devicon-bash-plain", name = "Bash" },
     { icon = "devicon-powershell-plain", name = "Powershell" },
-    { icon = "devicon-hugo-plain", name = "Hugo" },
-    { icon = "devicon-tailwindcss-plain", name = "TailwindCSS" }
+    { icon = "devicon-hugo-plain", name = "Hugo" }
   ]
