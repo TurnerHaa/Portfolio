@@ -82,7 +82,7 @@ responsibilities = [
 
 # Projects
 [[params.projects]]
-title = "Project Consectetur"
+title = "Electric vehicle ETL pipeline"
 description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
 tech = "R, Google Sheets, Docker, Redis"
 image = "/images/projects/consectetur.png"
