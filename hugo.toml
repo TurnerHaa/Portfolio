@@ -85,7 +85,7 @@ responsibilities = [
 title = "Electric vehicle ETL pipeline"
 description = "Data pipeline pulling EV and charging station data from UK.GOV into a self-updating dashboard."
 tech = "Python, SQL, dbt, Supabase, PowerBI"
-image = "/images/projects/consectetur.png"
+image = "/images/projects/UK_EV.png"
 link = "https://github.com/loremipsum/consectetur"
 
 [[params.projects]]
