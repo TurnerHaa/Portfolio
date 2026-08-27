@@ -89,39 +89,39 @@ image = "/images/projects/UK_EV.png"
 link = "https://github.com/TurnerHaa/ev_dashboard"
 
 [[params.projects]]
-title = "Project Consectetur"
-description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
-tech = "R, Google Sheets, Docker, Redis"
-image = "/images/projects/consectetur.png"
-link = "https://github.com/loremipsum/consectetur"
+title = "Great Britain's energy"
+description = "Combining the Elexon API and NESO data to visualize Great Britain's weekly energy use."
+tech = "Python, Pandas, NumPy, Matplotlib"
+image = "/images/projects/weekly_treemap.png"
+link = "https://github.com/TurnerHaa/grid_weekly"
 
-[[params.projects]]
-title = "Project Consectetur"
-description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
-tech = "R, Google Sheets, Docker, Redis"
-image = "/images/projects/consectetur.png"
-link = "https://github.com/loremipsum/consectetur"
+#[[params.projects]]
+# title = "Project Consectetur"
+# description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+# tech = "R, Google Sheets, Docker, Redis"
+# image = "/images/projects/consectetur.png"
+# link = "https://github.com/loremipsum/consectetur"
 
-[[params.projects]]
-title = "Project Consectetur"
-description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
-tech = "R, Google Sheets, Docker, Redis"
-image = "/images/projects/consectetur.png"
-link = "https://github.com/loremipsum/consectetur"
+# [[params.projects]]
+# title = "Project Consectetur"
+# description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+# tech = "R, Google Sheets, Docker, Redis"
+# image = "/images/projects/consectetur.png"
+# link = "https://github.com/loremipsum/consectetur"
+# 
+# [[params.projects]]
+# title = "Project Consectetur"
+# description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+# tech = "R, Google Sheets, Docker, Redis"
+# image = "/images/projects/consectetur.png"
+# link = "https://github.com/loremipsum/consectetur"
 
-[[params.projects]]
-title = "Project Consectetur"
-description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
-tech = "R, Google Sheets, Docker, Redis"
-image = "/images/projects/consectetur.png"
-link = "https://github.com/loremipsum/consectetur"
-
-[[params.projects]]
-title = "Project Consectetur"
-description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
-tech = "RETESTER"
-image = "/images/projects/consectetur.png"
-link = "https://github.com/loremipsum/consectetur"
+# [[params.projects]]
+# title = "Project Consectetur"
+# description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+# tech = "RETESTER"
+# image = "/images/projects/consectetur.png"
+# link = "https://github.com/loremipsum/consectetur"
 
 
 [[params.blogs]]
