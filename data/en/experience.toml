@@ -1,8 +1,8 @@
 [[experience]]
-  role = "Data Analyst & Journalist"
+  role = "Senior data journalist"
   company = "Beyond Words Studio"
   company_link = "https://www.beyondwordsstudio.com/" # Add company URL here
-  period = "Nov 2023 - Present"
+  period = "Sep 2026 - Present"
   country = "London, United Kingdom" # New field for region/country
   # description = "Longer description of the role..." # Optional detailed description
   responsibilities = [
@@ -17,7 +17,25 @@
   technologies = ["R", "Python", "Google Sheets", "Excel", "QGIS"]
 
 [[experience]]
-  role = "Jr. Data Analyst & Journalist"
+  role = "Data journalist"
+  company = "Beyond Words Studio"
+  company_link = "https://www.beyondwordsstudio.com/" # Add company URL here
+  period = "Nov 2023 - Aug 2026"
+  country = "London, United Kingdom" # New field for region/country
+  # description = "Longer description of the role..." # Optional detailed description
+  responsibilities = [
+    "Led data on visualizations, dashboards and reports for major international organizations like BCG, Boeing, Netflix, ECMWF.",
+
+    "Researched, cleaned, analysed and visualised data using tools like R, Python and Excel/Google Sheets.",
+    
+    "Translated complex topics into actionable insights for both technical and non-technical stakeholders.",
+
+    "Guest lectured at the University of Arts London MA Design for Data Visualisation.",
+  ]
+  technologies = ["R", "Python", "Google Sheets", "Excel", "QGIS"]
+
+[[experience]]
+  role = "Junior data journalist"
   company = "Beyond Words Studio"
   company_link = "https://www.beyondwordsstudio.com/" # Add company URL here
   period = "Jan 2022 - Oct 2023"
@@ -30,9 +48,9 @@
   ]
   technologies = ["R", "Python", "Google Sheets", "Excel"]
 
-[[experience]]
-  role = "Editorial Intern"
-  company = "Beyond Words Studio"
-  company_link = "https://www.beyondwordsstudio.com/" # Add company URL here
-  period = "Oct 2021 - Dec 2021"
-  country = "London, United Kingdom" # New field for region/country
+#[[experience]]
+#  role = "Editorial Intern"
+#  company = "Beyond Words Studio"
+#  company_link = "https://www.beyondwordsstudio.com/" # Add company URL here
+#  period = "Oct 2021 - Dec 2021"
+#  country = "London, United Kingdom" # New field for region/country

@@ -43,6 +43,19 @@ theme = "hugo-noir"
 # Experience
 [[params.experience]]
 company = "Beyond Words Studio"
+role = "Senior journalist"
+period = "Oct 2023 - Present"
+logo = "/images/company/lorem.png"
+description = "Data and editorial lead on dashboards, executive reports and websites for clients like Boeing, Netflix, BCG."
+responsibilities = [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "Ut enim ad minim veniam, quis nostrud exercitation",
+    "Duis aute irure dolor in reprehenderit in voluptate",
+    "Excepteur sint occaecat cupidatat non proident"
+]
+
+[[params.experience]]
+company = "Beyond Words Studio"
 role = "Data Analyst & Journalist"
 period = "Oct 2023 - Present"
 logo = "/images/company/lorem.png"
